@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "node_modules": true,
+    "**/*/.gitkeep": true,
+    "**/*/.gitignore": true,
+    "**/*/*spec.{ts, js}": true,
+    "**/*/*e2e": true,
+    ".angular": true,
+    "dist": true,
+  }
+}
